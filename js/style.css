@@ -1,0 +1,11 @@
+.container {
+max-width:50% !important
+}
+
+.btn {
+  width:100%
+}
+
+.copy.active {
+transform:translateY(0%)
+}
